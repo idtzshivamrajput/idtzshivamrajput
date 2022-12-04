@@ -21,7 +21,7 @@ end
 
 
 def currently
-  Booyah: {"Preparing for Placements & Government Sector" },
+  Booyah: {'Preparing for Placements & Government Sector' },
   reading: 'ExpressJS', 'Top Five Regrets of the Dying' ,
   tinkering: [Seating Arrangements,Data Interpretation,SQL]
  end
