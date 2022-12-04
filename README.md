@@ -1,4 +1,4 @@
-classs Sy < Person
+classs Sy  Person
 
     def initialize
     @name 'Shivam Singh'
@@ -8,6 +8,7 @@ classs Sy < Person
     @hobbies = [ 'Swimming', 'Art', 'Tacos' ]
   end
 
+
 def current location:
   "Gwalior,India"
 end
@@ -15,7 +16,6 @@ end
 
 def next location
   "New Delhi, India"
-
 end
 
 
