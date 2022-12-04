@@ -1,4 +1,4 @@
-class Sy < Person
+classs Sy < Person
 
     def initialize
     @name 'Shivam Singh'
